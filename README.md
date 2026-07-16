@@ -6,7 +6,7 @@ I build real systems for South Africa — and I teach people how to **think like
 
 > Before the job. Before the prompt. Understand the system — own the craft.
 
-![with Tea](banner.png)
+![The Art of Software Engineering — with Tea](./banner.png)
 
 ---
 
