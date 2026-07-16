@@ -1,63 +1,95 @@
-# Hi, I'm Thabiso 👋
+<!--
+Profile README for https://github.com/ThabisoX
+Special repo name must match username for this to appear on Overview.
+-->
 
-**Builder · Software engineer · Founder · Host**
+<div align="center">
 
-I build real systems for South Africa — from student platforms to work OS ideas — and I teach people how to **think like engineers**, not only how to write syntax.
+  <img src="banner.png" alt="The Art of Software Engineering — with Tea" width="100%" />
 
-> *Before the job. Before the prompt. Understand the system — own the craft.*
+  <h1>Hi, I'm Thabiso Xulu 👋</h1>
+
+  <p><b>Builder · Software engineer · Founder · Host</b></p>
+
+  <p>
+    I build real systems for South Africa — and I teach people how to
+    <b>think like engineers</b>, not only how to write syntax.
+  </p>
+
+  <p>
+    <i>Before the job. Before the prompt. Understand the system — own the craft.</i>
+  </p>
+
+  <p>
+    <a href="https://studentjunxion.co.za"><img src="https://img.shields.io/badge/StudentJunxion-Live-black?style=for-the-badge&labelColor=1a1a1a&color=C9A227" alt="StudentJunxion" /></a>
+    <a href="https://github.com/ThabisoX/StudentPlug"><img src="https://img.shields.io/badge/StudentPlug-Elixir-black?style=for-the-badge&labelColor=1a1a1a&color=6e4cff" alt="StudentPlug" /></a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir" />
+    <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white" alt="Phoenix" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  </p>
+
+</div>
 
 ---
 
-### What I'm building
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | What it is |
-|---------|------------|
-| **[StudentPlug / StudentJunxion](https://github.com/ThabisoX/StudentPlug)** | Multi-surface student platform for SA universities — Phoenix · Flutter · Tauri |
-| **GOS (Git OS)** | Company-isolated work OS — encrypted mesh, load-shedding resilience, SA-first |
-| **The Art of Software Engineering — with Tea** | Community table: systems thinking · Mon / Wed / Fri sessions |
+### About
+- I build systems that solve real problems
+- Passionate about clean architecture & developer experience
+- Based in **Johannesburg, South Africa**
+- Host of **The Art of Software Engineering — with Tea**
 
-🌐 **Live product:** [studentjunxion.co.za](https://studentjunxion.co.za)
-
----
-
-### Stack I live in
-
-`Elixir` · `Phoenix` · `OTP` · `Flutter` · `Python` · `PostgreSQL` · `Rust` · `Docker` · `AI-assisted engineering`
-
----
-
-### How I think
-
-- **Systems over syntax**
-- **Understand first — then build**
-- **AI is a tool; judgment stays human**
-- **Ship ugly progress over perfect silence**
-
----
+</td>
+<td width="50%" valign="top">
 
 ### Currently
+- 🚀 **Building:** [StudentPlug](https://github.com/ThabisoX/StudentPlug) — SA student platform
+- 📅 **Hosting weekly:** Mon Foundations · Wed The Table · Fri Build
+- 🧠 **Learning path:** Assembly → C → systems → production
+- 🛠️ **Next:** GOS (Work OS) · Azania (personal OS)
 
-- Shipping **StudentJunxion** (web · mobile · desktop)
-- Hosting **with Tea** — a learning table for systems & engineering thinking
-- Deepening fundamentals: Assembly → C → systems → production
+</td>
+</tr>
+</table>
 
 ---
 
 ### Featured work
 
-- 🎓 [StudentPlug](https://github.com/ThabisoX/StudentPlug) — student platform
-- 🎬 [StreamGen](https://github.com/ThabisoX/StreamGen) — intelligent watchlist builder
-- 🎨 [imba_ya_sanaa](https://github.com/ThabisoX/imba_ya_sanaa) — The House of Art
+| Repo | What it is |
+|------|------------|
+| **[StudentPlug](https://github.com/ThabisoX/StudentPlug)** | Multi-surface student platform — Phoenix · Flutter · Tauri |
+| **[StreamGen](https://github.com/ThabisoX/StreamGen)** | Intelligent WatchList Builder |
+| **[imba_ya_sanaa](https://github.com/ThabisoX/imba_ya_sanaa)** | The House of Art — creative platform |
+| **[GEMINI](https://github.com/ThabisoX/GEMINI)** | Elixir experiments |
+
+🌐 **Live:** [studentjunxion.co.za](https://studentjunxion.co.za)
 
 ---
 
-### Connect
+### How I think
 
-Open to builders, learners, and anyone who wants to understand how software really works.
-
-GitHub: **[@ThabisoX](https://github.com/ThabisoX)**
+```text
+Systems > syntax
+Understand first → then build
+AI is a tool · judgment stays human
+Ship ugly progress > perfect silence
+```
 
 ---
 
-*"You don't have to learn alone."*  
-**— with Tea**
+<div align="center">
+
+  <sub>You don't have to learn alone.</sub><br/>
+  <b>— with Tea —</b>
+
+</div>
